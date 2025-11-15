@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 
 **Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
