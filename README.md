@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ### 🚀 Skills & Technologies
 
 **Programming Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](
+https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
@@ -28,7 +29,3 @@ Here are some ideas to get you started:
 **Data Science Libraries:**
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
